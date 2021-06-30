@@ -1,0 +1,74 @@
+body{
+  font-family: "Montserrat";
+}
+/**title section**/
+#title{
+  background-color: #E8F6EF;
+  font-family: "Ubuntu";
+  font-weight: bolder;
+}
+
+p{
+  color:#8f8f8f;
+}
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+.title-img{
+  width:100%;
+}
+/**testimonial section**/
+#testimonials{
+  margin:auto 50px;
+  background-color: #A2DBFA;
+  text-align: center;
+  padding:7% 15%;
+}
+.carousel-item{
+  line-height: 1.5;
+  padding:7% 15%;
+}
+.testimonial-img{
+  width:20%;
+  border-radius: 100%;
+}
+/**destination section**/
+#destination{
+  text-align: center;
+  padding: 7% 15%;
+  font-family: "Montserrat";
+}
+
+.icon{
+  margin-bottom: 3%;
+  color:#39A2DB;
+}
+.dest-txt{
+  font-family:"Montserrat-Black";
+  line-height:1.5;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+/**pricing section**/
+#pricing{
+  padding:100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+/**footer section**/
+#footer{
+  font-family: "Montserrat-Black";
+  background-color:#B8DFD8;
+  color:#fff;
+  padding:7% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin:20px 10px;
+}
+.social-txt{
+  font-size: 1.5rem;
+}
